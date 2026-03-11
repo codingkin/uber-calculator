@@ -1,0 +1,17 @@
+.clock {
+    font-family: 'Arial', sans-serif;
+    font-size: 48px;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+}
+
+.clock span {
+    display: block;
+    font-size: 24px;
+    color: #666;
+}
